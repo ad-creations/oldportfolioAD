@@ -2,11 +2,9 @@
  <head>
    <h1 id = "topPageTitle">Alex Daley</h1>
    <h3 id = "threeBulletsHeader">
-     <ul id = "threeBulletsList">
+     <il id = "threeBulletsList">
        <p id = "threeBulletsText">
-         CS Major
-         Photographer
-         Athlete
+         CS Major - Photographer - Athlete
        </p>
      </ul>
    </h3>
