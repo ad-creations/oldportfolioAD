@@ -1,8 +1,7 @@
 <html>
- <style>
-  .
  <head>
-   <h1 id = "topPageTitle">Alex Daley</h1>
+  <h1 style = "color:grey font-size:40px">
+   <h1 id = "topPageTitle" >Alex Daley</h1>
    <h3 id = "threeBulletsHeader">
      <il id = "threeBulletsList">
        <p id = "threeBulletsText">
