@@ -31,10 +31,16 @@
   
   
    <div>
-    <h5 id = "changeLog">
+    <h2 id = "changeLogTitle">
+     <p>Change Log</p>
+    </h2>
+    <h5 id = "changeLogBlurb">
      <p>Basically this week I structed out the skeleton of what I want my portfolio to be, I also drew lots of physical designs which I am not sure how to upload none google img urls to html via href links so I will just be trying to attach those on canvas. I didn't really get into a whole lot of tutorials that were on the canvas, but I did work on a bunch of <a href = "https://www.freecodecamp.org/learn/responsive-web-design/" target = "_blank"> freecodcamp </a> lessons and I am working towards the certification hopefully will have it by the end of the second week!</p>
      </h5>
-    <h5 id = "toDo">
+    <h2 id = "toDoTitle">
+     <p>To Do</p>
+    </h2>
+    <h5 id = "toDoBlurb">
      <p> There is a lot I want to do, a lot of tutorials I want to work on, and keep adding to my portfolio so that I can have it on my resume for people to look at when I apply to jobs, I want to figure out how to upload images not with urls, need to figure out styling and importing text styles, and I just want to do more tutorials on the canvas page! This week has been hectic so I haven't gotten nearly as much as I would have liked done so, whoever is grading this get excited for next week!</P>
     </h5>
    </div>
