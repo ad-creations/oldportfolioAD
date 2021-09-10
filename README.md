@@ -2,13 +2,13 @@
  <head>
   <h1 style = "color:grey font-size:40px">
    <h1 id = "topPageTitle" >Alex Daley</h1>
-   <h3 id = "threeBulletsHeader">
+   <h2 id = "threeBulletsHeader">
      <il id = "threeBulletsList">
        <p id = "threeBulletsText">
          Student - Photographer - Athlete
        </p>
      </ul>
-   </h3>
+   </h2>
   <h4 id = "contact email">
    <p>Contact: <a href = "mailto: amdaley@udel.edu"> amdaley@udel.edu </a> </p>
    </h4> 
@@ -24,9 +24,22 @@
     <p>Frisbee is one of the more taxing sports I've had the chance of playing in my life, but I wouldn't give it up for anything. I strive to get better everyday, hydrate or diedryate.</p>
   </h4>
   <br>
+  <h2 id = "workExampleDumpTitle">
+   <p>Stuff I am learning</p>
+  </h2>
+  <h4 id = "workExampleDumpBlurb">
+   <p>I am currently working on a bunch of lessons learning about html coding, css styling, and how proper web design can be such a world of difference! Here are some to the lessons I have worked on so far.</p>
+  </h4>
   
- 
-  
+   <h4 id = "title"> Do you like Ultimate Frisbee?</h4>
+     <p id = "description"> Tell us how you feel! </p>
+
+   <form id = "survey-form">
+    <label id = "name-label" for = "email">Name<br>
+    <input type = "text" id = "name" placeholder = "Enter your name" required />
+    <label id = "email-label" for = "email">Email<br>
+    <input type = "email" id = "email" placeholder = "Enter your email" required />
+
   
   
   
