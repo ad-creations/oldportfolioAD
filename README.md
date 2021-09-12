@@ -2,19 +2,21 @@
  <head>
   <h1 style = "color:grey font-size:40px">
    <h1 id = "topPageTitle" >Alex Daley</h1>
+   ![1FE89590-9F9A-45DF-84D2-0CFB4AA361AB_1_105_c](https://user-images.githubusercontent.com/89869602/132967888-ce1dbc15-9488-47ad-8e18-ecf1b1089a26.jpeg)
    <h2 id = "threeBulletsHeader">
      <il id = "threeBulletsList">
        <p id = "threeBulletsText">
          Student - Photographer - Athlete
        </p>
-     </ul>
+     </il>
    </h2>
   <h4 id = "contact email">
    <p>Contact: <a href = "mailto: amdaley@udel.edu"> amdaley@udel.edu </a> </p>
-   </h4> 
+  </h4> 
  </head>
  <body>
-  <h4 id = "csMajorPicBlurb">
+  <h4 id = "csM![D6BF01B8-235D-4199-A535-0B4945E0A4EC_1_201_a](https://user-images.githubusercontent.com/89869602/132967773-ab81661c-51d2-4e76-8a14-00248e3e5a21.jpeg)
+ajorPicBlurb">
    <p> I love computer science for all its application to the world right now. I am so excited to see where this degree takes me and what jobs I will do in the future!</p>
   </h4>
   <h4 id = "photographyPicBlurb">
@@ -36,9 +38,9 @@
 
    <form id = "survey-form">
     <label id = "name-label" for = "email">Name<br>
-    <input type = "text" id = "name" placeholder = "Enter your name" required />
+    <input type = "text" id = "name" placeholder = "Enter your name" required /><br>
     <label id = "email-label" for = "email">Email<br>
-    <input type = "email" id = "email" placeholder = "Enter your email" required />
+    <input type = "email" id = "email" placeholder = "Enter your email" required /><br>
 
   
   
