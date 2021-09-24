@@ -10,7 +10,7 @@ Full time student at the University of Delaware were I am majoring in Computer S
 - [Photography](./Photography.md)
 - [Ultimate Frisbee](./Frisbee.md)
 
-Feel free to contact me for at: amdaley@udel.edu
+Feel free to contact me at: amdaley@udel.edu
 
 
 ## Updates:
