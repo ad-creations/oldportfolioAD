@@ -4,11 +4,11 @@
 
 ### About me: 
 Full time student at the University of Delaware were I am majoring in Computer Science. Here are some things you can expect to find in my [Portfolio](./Home.md):
-- Work Experience
-- School life
-- Coding Work
-- Photography 
-- Ultimate Frisbee
+- [Work Experience](./Work.md)
+- [School life](./School.md)
+- [Coding Work](./Cisc275)
+- [Photography](./Photography.md)
+- [Ultimate Frisbee](./Frisbee.md)
 
 Feel free to contact me for at: amdaley@udel.edu
 
