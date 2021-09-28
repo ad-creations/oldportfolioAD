@@ -15,13 +15,13 @@ Frisbee is one of the most taxing sports I've had the chance of playing in my li
 
 <h2 id = "life-title"> Current Life Status </h2>
 
-### [Work Experience](./Work.md): <!-- Insert Short Details about Work-->
+### [Work Experience](./Work.html): <!-- Insert Short Details about Work-->
 
-### [Student Life](./School.md): <!-- Insert Short Details about school-->
+### [Student Life](./School.html): <!-- Insert Short Details about school-->
 
-### [Photography](./Photography.md) <!-- Insert short blurb about photography-->
+### [Photography](./Photography.html) <!-- Insert short blurb about photography-->
 
-### [Ultimate Frisbee](./Frisbee.md) <!-- Insert Short Details about frisbee-->
+### [Ultimate Frisbee](./Frisbee.html) <!-- Insert Short Details about frisbee-->
 
 <!-- Enter in contact images(gmail,github home, linkedin, facebook, ect.) below or top right in a nav bar -->
 
