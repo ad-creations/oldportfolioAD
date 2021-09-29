@@ -1,1 +1,46 @@
-## Computer Science Course 275: Instructor Dr. Austin Bart 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <nav>
+    </nav>
+  </head>
+  
+  
+  
+  <body>
+    
+    
+    
+    <div>
+    </div>
+    
+    
+    <div>
+    </div>
+    
+    
+    <div>
+    </div>
+    
+    <div>
+    </div>
+    
+    
+    <div>
+    </div>
+    
+    
+    <div>
+    </div>
+    
+    
+    <div>
+    </div>
+    
+    
+  </body>
+  
+  
+  </html>
+  
