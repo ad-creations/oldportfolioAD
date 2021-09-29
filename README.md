@@ -1,14 +1,14 @@
 # Portfolio Start Page
 
-# [Alexander Daley](./Home.md)
+# [Alexander Daley](./Home.html)
 
 ### About me: 
-Full time student at the University of Delaware were I am majoring in Computer Science. Here are some things you can expect to find in my [Portfolio](./Home.md):
-- [Work Experience](./Work.md)
-- [School life](./School.md)
-- [Coding Work](./Cisc275)
-- [Photography](./Photography.md)
-- [Ultimate Frisbee](./Frisbee.md)
+Full time student at the University of Delaware were I am majoring in Computer Science. Here are some things you can expect to find in my [Portfolio](./Home.html):
+- [Work Experience](./Work.html)
+- [School life](./School.html)
+- [Coding Work](./Cisc275.html)
+- [Photography](./Photography.html)
+- [Ultimate Frisbee](./Frisbee.html)
 
 Feel free to contact me at: amdaley@udel.edu
 
